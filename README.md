@@ -1,4 +1,4 @@
-# MazeGenerator
+# Maze Generator
 
 Maze Generator using the Depth-First Search Recursive Algorithm, JavaScript and p5
 
